@@ -19,12 +19,12 @@ OpenCore Bootloader Configuration for Dell Latitude 3310 to Boot macOS
 * Stereo Speaker
 * Built-in Webcam, Mic
 * WLAN, Bluetooth
-* Brightness Keys
 * Sleep
 
 ## What's Broken?
 * Trackpad Gesture/Multi-Touch
 * AirDrop/Handoff/Sidecar (Intel Wireless)
+* Brightness Keys
 * Samsung PM991 NVMe SSD, SK Hynix SSD if you have one
 
 ## Enable Native Power Management Before First Boot
