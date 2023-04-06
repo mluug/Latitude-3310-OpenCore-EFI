@@ -27,6 +27,9 @@ OpenCore Bootloader Configuration for Dell Latitude 3310 to Boot macOS
 * Brightness Keys
 * Samsung PM991 NVMe SSD, SK Hynix SSD if you have one
 
+## Fill in Platform Info
+* `Generic` --> `PlatformInfo` Fill in MLB, ROM, UUID, Serial accordingly.
+
 ## Enable Native Power Management Before First Boot
 This disables the CFG Lock to allow MSR 0xE2 register to be written.  
 Your BIOS firmware will be modified.  
