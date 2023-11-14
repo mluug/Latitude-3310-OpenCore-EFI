@@ -13,7 +13,7 @@ OpenCore Bootloader Configuration for Dell Latitude 3310 to Boot macOS
 
 ## What's Working?
 * PS/2 Keyboard
-* PS/2 Trackpad (Partially)
+* Trackpad
 * Native Power Management
 * Integrated GPU
 * Stereo Speaker
@@ -22,7 +22,6 @@ OpenCore Bootloader Configuration for Dell Latitude 3310 to Boot macOS
 * Sleep
 
 ## What's Broken?
-* Trackpad Gesture/Multi-Touch
 * AirDrop/Handoff/Sidecar (Intel Wireless)
 * Brightness Keys
 * Samsung PM991 NVMe SSD, SK Hynix SSD if you have one
